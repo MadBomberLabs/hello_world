@@ -11,4 +11,9 @@ Check us out at http://madbomberlabs.com! The site is currently undergoing a red
   
 Thanks for stopping by! And please, pitch in your comments and advice!
 
-  ~ Jeff Weber
+  ~ Jeff Weber @madbomberlabs
+
+
+This is a change from the mac
+
+This is another change. Pay attention!
