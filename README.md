@@ -1,6 +1,5 @@
 # hello_world
 Our First Repo
-<<<<<<< HEAD
 
 Hey everyone! This is just a repo that I'm setting up to learn how to use GitHub! I'm getting more and more
   experience in programming and need to start building a portfolio. I own Mad Bomber Labs, and we specialize in creating
@@ -18,5 +17,4 @@ Thanks for stopping by! And please, pitch in your comments and advice!
 This is a change from the mac
 
 This is another change. Pay attention!
-=======
->>>>>>> parent of 5042dca... Merge pull request #1 from MadBomberLabs/readme-edits
+
