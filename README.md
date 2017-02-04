@@ -17,3 +17,7 @@ Thanks for stopping by! And please, pitch in your comments and advice!
 This is a change from the mac
 
 This is another change. Pay attention!
+<<<<<<< HEAD
+
+=======
+>>>>>>> parent of a81397d... Revert "Merge pull request #1 from MadBomberLabs/readme-edits"
